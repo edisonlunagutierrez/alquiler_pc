@@ -1,0 +1,22 @@
+body {
+  background: #32bd9f;
+}
+
+.logo {
+  width: 30%;
+}
+
+.bg-black {
+  background: #090909;
+}
+
+.card {
+  border-radius: 25px;
+}
+
+.btn-danger {
+  border-radius: 25px;
+}
+.btn-primary {
+  border-radius: 25px;
+}
